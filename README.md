@@ -10,3 +10,4 @@ Bu proje, **Anında Çalışan Fonksiyon İfadesi** (Immediately Invoked Functio
 - **CSS**
 - **Pure JavaScript**
 - **JQuery**
+![product-carousel](./product-carousel.png)
